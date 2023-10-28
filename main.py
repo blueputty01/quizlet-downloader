@@ -1,7 +1,5 @@
 import csv
 import os
-import time
-from io import StringIO
 
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
